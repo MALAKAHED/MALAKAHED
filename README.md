@@ -23,7 +23,7 @@
 ---
 
 ## 📉 My Open Source Contribution Stats
-![Malak's Stats](https://github-readme-stats.vercel.app/api?username=MALAKAHED&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MALAKAHED&layout=compact&theme=radical)
 
 ---
@@ -32,7 +32,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/malak-ahmed/)
 - 📧 [Email](mailto:malakahmed.dev@gmail.com)
 
-- 
-![Malak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MALAKAHED&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MALAKAHED&layout=compact&theme=radical)
